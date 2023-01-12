@@ -1,0 +1,115 @@
+/********** Arkaplan resmi******************* */
+body{
+    background-image: url("img/sky-background.jpg");
+    padding: 50px 100px 50px 100px;
+    font-family: 'Maven Pro', sans-serif;
+    color: darkgrey;
+}
+
+.anasayfa{
+    padding: 30px 30px 30px 30px;
+    font-family: 'Maven Pro', sans-serif;
+    color: darkgrey;
+}
+.iletisim{
+    padding: 30px 30px 30px 30px;
+    font-family: 'Maven Pro', sans-serif;
+    color: darkgrey;
+}
+.hakkimizda{
+    padding: 30px 30px 30px 30px;
+    font-family: 'Maven Pro', sans-serif;
+    color: darkgrey;
+}
+/**************** Sağ üst köşe-sosyal medya ikonları **************/
+.social{
+    position: relative;
+}
+#instagram{
+    width: 30px;
+    height: 30px;
+    float: right;
+    position: relative;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    padding-left: 5px;
+}
+#facebook{
+    width: 30px;
+    height: 30px;
+    float: right;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#twitter{
+    width: 30px;
+    height: 30px;
+    float: right;
+    border-radius: 6px 6px 6px 6px;
+    padding-right: 5px;
+}
+/************* Anasafya foto ve div için gerekli düzeltmeler ***************/
+#homepageimg{
+    width: 1200px;
+    height: 600px;
+    padding: 40px;
+    padding-bottom: 30px;
+}
+/* Anasayfa img altı ilk article */
+.first-article{
+    float: left;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+/* Kapadokya */
+#kapadokyaimg{
+    float: left;
+    padding-left: 50px;
+    height: 400px;
+    width: 600px;
+    
+}
+.paragraf{
+    text-align: left;
+    word-spacing: 2mm;
+    line-height: 26px;
+    padding-left: 680px;
+    text-indent: 30px;
+}
+/* Nemrut */
+#nemrutimg{
+    float: left;
+    padding-left: 50px;
+    height: 500px;
+    width: 600px;
+}
+/* Efes */
+#efesimg{
+    float: left;
+    padding-left: 50px;
+    height: 400px;
+    width: 600px;
+}
+/************************** İletişim Sayfası ***********************/
+.contactdiv{
+    padding-top: 40px;
+    float: left;
+   width: 800px;
+    
+}
+.contact-p{
+    text-align: left;
+    word-spacing: 2mm;
+    text-indent: 30px;
+    line-height: 26px;
+}
+.about-us-div{
+    padding-top: 30px;
+}
